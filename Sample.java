@@ -4,5 +4,4 @@ class Sample{
         
         System.out.println(arr[4]);
     }
-
 }
