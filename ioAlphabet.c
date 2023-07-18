@@ -18,3 +18,7 @@ int main() {
 	}
 	return 0;
 }
+
+// capital 1
+// small 0
+// no ALpha -1
