@@ -62,8 +62,7 @@ void print(Node *head)
 
 int main()
 {
-    /*
-    //statically creating
+    /*//statically creating
     Node n1(1);
 
     //storing node 1
@@ -78,8 +77,7 @@ int main()
 
     */
 
-    /*
-    //    generating node
+    /*//    generating node
        Node *n3 = new Node(10);
        Node *n4 = new Node(50);
 
